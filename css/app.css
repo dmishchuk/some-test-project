@@ -43,7 +43,7 @@ header .container input {
 /*}*/
 
 .tiles {
-
+    display: block;
 }
 .tile {
     min-height: 100px;
